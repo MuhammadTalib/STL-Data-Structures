@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\muhammad talib\source\repos\sdlexample\source.cpp(22): error C3861: 'SDL_SetVideoMode': identifier not found
+c:\users\muhammad talib\source\repos\sdlexample\source.cpp(44): error C3861: 'SDL_UpdateRect': identifier not found
+c:\users\muhammad talib\source\repos\sdlexample\source.cpp(57): error C2065: 'EXIT_SUCCESS': undeclared identifier

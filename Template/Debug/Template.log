@@ -1,0 +1,8 @@
+﻿  AVLTree.cpp
+  BinaryTree.cpp
+  main.cpp
+c:\users\muhammad talib\source\repos\template\expressiontree.h(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+c:\users\muhammad talib\source\repos\template\avltree.h(185): warning C4715: 'AVLTree<int>::FindMax': not all control paths return a value
+c:\users\muhammad talib\source\repos\template\avltree.cpp(243): warning C4715: 'AVLTree<int>::findparent': not all control paths return a value
+  Template.vcxproj -> C:\Users\Muhammad Talib\source\repos\Template\Debug\Template.exe

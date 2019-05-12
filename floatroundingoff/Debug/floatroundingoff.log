@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\muhammad talib\source\repos\floatroundingoff\source.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  floatroundingoff.vcxproj -> C:\Users\Muhammad Talib\source\repos\floatroundingoff\Debug\floatroundingoff.exe
